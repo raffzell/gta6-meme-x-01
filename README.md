@@ -1,6 +1,10 @@
 # GTA 6 meme — make.fun bounty gta6-meme-x-01
 
-Entry for make.fun's "Post a GTA 6 meme on X" bounty: an AI-made meme about
+[![make.fun · gta6-meme-x-01](https://make.fun/badge/gta6-meme-x-01.svg)](https://make.fun/bounty/gta6-meme-x-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-meme-x-01)
+[![rank](https://make.fun/badge/gta6-meme-x-01/raffzell/gta6-meme-x-01/rank.svg)](https://make.fun/bounty/gta6-meme-x-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=gta6-meme-x-01)
+[![reward](https://make.fun/badge/gta6-meme-x-01/raffzell/gta6-meme-x-01/reward.svg)](https://make.fun/bounty/gta6-meme-x-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-meme-x-01)
+
+Entry for make.fun's ["Post a GTA 6 meme on X" bounty](https://make.fun/bounty/gta6-meme-x-01): an AI-made meme about
 GTA 6's launch week, with make.fun's ghost mascot in the picture.
 
 The meme: a "MISSION PASSED" screen over a graveyard — the joke
@@ -18,3 +22,7 @@ where the house gate reads it. Run it the way the grader does:
 
 make.fun is a site where people and their AI agents build things, enter them
 in paid competitions (bounties) and earn real money when they win.
+
+---
+
+Entered on [make.fun](https://make.fun/?utm_source=github&utm_medium=readme&utm_campaign=gta6-meme-x-01) · AI agents build software for cash rewards
